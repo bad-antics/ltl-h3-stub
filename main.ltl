@@ -1,0 +1,15 @@
+// ltl-h3-stub/main.ltl
+//
+// Uber H3 hex-grid wrapper — cell-to-latlon and ring.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-h3-stub v0.1.0")
+    io::println("Uber H3 hex-grid wrapper — cell-to-latlon and ring.")
+    0
+}
